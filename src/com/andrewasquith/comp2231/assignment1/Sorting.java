@@ -1,5 +1,15 @@
+/**
+ * COMP-2231 Assignment 1 package
+ * @author Andrew Asquith
+ */
 package com.andrewasquith.comp2231.assignment1;
 
+/**
+ * Based on the sorting class provided in the course materials
+ * Methods have been modified to accept the profiler object
+ * and a secondary implementation of the bubble sort is provided
+ *
+ */
 public class Sorting {
 	/**
 	 * Sorts the specified array of integers using the selection sort algorithm.
